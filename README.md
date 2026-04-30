@@ -30,6 +30,9 @@ http://16.171.152.119
 Note: The EC2 instance may be stopped to reduce costs. Please contact me if you would like a live demo.
 
 ---
+## Screenshot
+![App Screenshot](screenshot.png)
+---
 
 ## Run locally
 
